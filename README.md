@@ -1,2 +1,2 @@
 # pacman-game
- Surely you know about this one, recreated with HTML, CSS & JS
+ Surely you already know about this one, recreated with HTML, CSS & JS
